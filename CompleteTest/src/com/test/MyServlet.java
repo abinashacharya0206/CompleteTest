@@ -31,7 +31,7 @@ public class MyServlet extends HttpServlet {
 		// TODO Auto-generated method stub
 		//response.getWriter().append("Served at: ").append(request.getContextPath());
 	PrintWriter  pt=response.getWriter();
-	pt.print("Hello manika! poda muhin!");
+	pt.print("This is the official website of @charya Incorporation!");
 	}
 
 	/**
